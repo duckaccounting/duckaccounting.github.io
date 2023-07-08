@@ -1,0 +1,3 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as n,c as r,a as o,b as e,d as a}from"./app-16fd2187.js";const c={},u=e("p",null,[e("strong",null,"Note"),a(" Duck Accounting is an application in beta preview. The product is under ongoing development and the current result might not reflect the final product.")],-1);function i(s,d){return n(),r("div",null,[o(`
+Did you ever dream about entrepreneurship, starting your own business? Maybe alongside your current employment, but fear the burden of bureaucracy? Duck Accounting makes it easy for you to make your dream come true. Start into your entrepreneurship with ease by using Duck Accounting.
+`),u])}const p=t(c,[["render",i],["__file","index.html.vue"]]);export{p as default};
