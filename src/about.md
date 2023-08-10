@@ -7,10 +7,15 @@ comment: false
 
 Duck Accounting is a product developed by:
 
-Leonhard Schick
+<span style="white-space: nowrap;">Duck Accouning UG</span> (haftungsbeschränkt)[^haftungsbeschraenkt]
 Danziger Str. 4
 36110 Schlitz
+Germany
+
+CEO: Leonhard Schick
 
 [Privacy Policy](privacy-policy)
 
 For legal information required by german law, see [Impressum](/de/impressum)
+
+[^haftungsbeschraenkt]: Our company is a company with limited liability according to the laws of the Federal Republic of Germany.
