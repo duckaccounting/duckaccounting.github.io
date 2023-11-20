@@ -19,7 +19,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "duckaccounting/homepage",
+  //repo: "duckaccounting/homepage",
 
   docsDir: "src",
 
@@ -27,7 +27,7 @@ export default hopeTheme({
     medias: {
       //Discord: "https://example.com",
       Email: "mailto:info@duckaccounting.com",
-      GitHub: "https://github.com/duckaccounting",
+      //GitHub: "https://github.com/duckaccounting",
       //Reddit: "https://example.com",
       //Rss: "https://example.com",
       //Twitter: "https://example.com",
