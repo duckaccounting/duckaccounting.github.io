@@ -14,3 +14,5 @@ Did you ever dream about entrepreneurship, starting your own business? Maybe alo
 -->
 
 **Note** Duck Accounting is an application in beta preview. The product is under ongoing development and the current result might not reflect the final product.
+
+<Profile1/>

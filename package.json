@@ -15,5 +15,8 @@
     "vue": "^3.4.23",
     "vuepress": "2.0.0-rc.0",
     "vuepress-theme-hope": "2.0.0-rc.13"
+  },
+  "dependencies": {
+    "vue3-msal": "github:w473/vue3-msal"
   }
 }
