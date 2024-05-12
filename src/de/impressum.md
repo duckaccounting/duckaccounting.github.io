@@ -11,6 +11,7 @@ Danziger Str. 4
 36110 Schlitz
 
 Geschäftsführer: Leonhard Schick
+USt.IdNr.: DE366094650
 
 <!--USt-Ident-Nr. gemäß § 27a Umsatzsteuergesetz: DE ...
 -->

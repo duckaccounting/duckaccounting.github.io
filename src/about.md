@@ -13,6 +13,7 @@ Danziger Str. 4
 Germany
 
 CEO: Leonhard Schick
+VAT Registration No.: DE366094650
 
 [Privacy Policy](privacy-policy)
 
