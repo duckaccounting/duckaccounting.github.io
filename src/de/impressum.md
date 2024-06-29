@@ -7,7 +7,7 @@ comment: false
 # Impressum
 
 **<span style="white-space: nowrap;">Duck Accounting UG</span> *(haftungsbeschränkt)***
-Danziger Str. 4
+Am Lutzenrain 33
 36110 Schlitz
 
 Geschäftsführer: Leonhard Schick

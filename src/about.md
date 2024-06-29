@@ -8,7 +8,7 @@ comment: false
 Duck Accounting is a product developed by:
 
 <span style="white-space: nowrap;">Duck Accouning UG</span> (haftungsbeschränkt)[^haftungsbeschraenkt]
-Danziger Str. 4
+Am Lutzenrain 33
 36110 Schlitz
 Germany
 
